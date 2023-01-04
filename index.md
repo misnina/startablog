@@ -14,6 +14,6 @@ My job is a pixel artist, I've went to some school for web development, I've par
 ![a small stamp of the character Nina](assets/images/birthday_pixel_2x.png) -misnina (Nina)!
 
 <p>
-<iframe id='kofiframe' src='https://ko-fi.com/misnina/?hidefeed=true&widget=true&embed=true&preview=true' style='border:none;width:100%;padding:4px;background:#30080f;background-color:#30080f;' height='712' title='misnina'></iframe>
+<iframe id='kofiframe' src='https://ko-fi.com/misnina/?hidefeed=true&widget=true&embed=true&preview=true' style='border:none;width:50%;align-self:center;padding:4px;background:#30080f;background-color:#30080f;' height='712' title='misnina'></iframe>
 </p>
 
