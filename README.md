@@ -1,3 +1,5 @@
-# Start a F**king Blog!
+# Nina's Blog!
 
-Repo for the startafuckingblog.com website
+Repo for the blog.misnina.com
+
+rss feed code: https://www.johnvincent.io/jekyll/rss-feed-with-jekyll/
