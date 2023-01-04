@@ -8,6 +8,14 @@
   font-family: 'Roboto Condensed', sans-serif !important;
 }
 
+iframe {
+  border: none !important;
+  background: inherit !important;
+  width: 50% !important;
+  padding: 4px;
+  background: #f9f9f9;
+}
+
 header {
   background:rgb(68, 28, 42) !important;
 }
