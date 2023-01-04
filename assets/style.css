@@ -13,16 +13,9 @@ iframe {
   border: none !important;
   width: 100% !important;
   padding: 4px;
-  background: rgb(49, 7, 15, 0) !important;
-  background-color: rgb(49, 7, 15, 0) !important;
 }
 
 iframe body {
-  background: rgb(49, 7, 15, 0) !important;
-  background-color: rgb(49, 7, 15, 0) !important;
-}
-
-.mainBody {
   background: rgb(49, 7, 15, 0) !important;
   background-color: rgb(49, 7, 15, 0) !important;
 }
