@@ -4,19 +4,20 @@
   --text-light: rgb(238, 199, 82) !important;
   --accent: rgb(253, 182, 237) !important;
   --border: rgb(120, 36, 98) !important;
-  --bg: rgb(49, 7, 15) !important;
+  --bg: rgba(48, 8, 15, 1) !important;
   font-family: 'Roboto Condensed', sans-serif !important;
 }
 
-html, body {
-  background: rgb(49, 7, 15) !important;
-}
-
 iframe {
+  color-scheme: none !important;
   border: none !important;
   width: 100% !important;
   padding: 4px;
+}
+
+iframe body {
   background: rgb(49, 7, 15) !important;
+  background-color: rgb(49, 7, 15) !important;
 }
 
 header {
