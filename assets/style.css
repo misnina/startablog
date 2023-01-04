@@ -11,13 +11,17 @@
 iframe {
   color-scheme: none !important;
   border: none !important;
-  width: 100% !important;
+  width: 50% !important;
   padding: 4px;
 }
 
 iframe body {
   background: rgb(49, 7, 15, 0) !important;
   background-color: rgb(49, 7, 15, 0) !important;
+}
+
+.floatingchat-container {
+  width: 100% !important;
 }
 
 header {
