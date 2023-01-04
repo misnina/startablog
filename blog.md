@@ -1,7 +1,7 @@
 ---
 layout: default
-title: misnina's assorted worlds
-description: a thing
+title: misnina's assorted words
+description: here's where the writing happens
 permalink: /archive/
 ---
 
