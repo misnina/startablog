@@ -4,8 +4,8 @@
   --text-light: rgb(238, 199, 82) !important;
   --accent: rgb(253, 182, 237) !important;
   --border: rgb(120, 36, 98) !important;
+  --bg: rgb(49, 7, 15) !important;
   font-family: 'Roboto Condensed', sans-serif !important;
-  background-color:rgb(49, 7, 15) !important;
 }
 
 header {

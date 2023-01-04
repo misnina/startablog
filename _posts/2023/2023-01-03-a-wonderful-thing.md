@@ -1,6 +1,6 @@
 ---
 layout: post
-title: myworld
+title: my world
 description: A wonderful thing indeed.
 typora-root-url: ../../
 ---
