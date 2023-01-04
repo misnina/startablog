@@ -10,10 +10,9 @@
 
 iframe {
   border: none !important;
-  background: inherit !important;
-  width: 50% !important;
+  width: 100% !important;
   padding: 4px;
-  background: #f9f9f9;
+  background: var(--bg);
 }
 
 header {
