@@ -1,10 +1,8 @@
 ---
 layout: post
-title: Another Fucking Post
-description: Blogs need to have more than one post, so here's another fucking one.
+title: Holder Post
+description: ...
 ---
-{: .large}
-I can't be arsed to write anything in this fucking post, so here's some fake text...
 
 Lorem ipsum dolor sit amet consectetur adipiscing elit, urna consequat felis vehicula class ultricies mollis dictumst, aenean non a in donec nulla. Phasellus ante pellentesque erat cum risus consequat imperdiet aliquam, integer placerat et turpis mi eros nec lobortis taciti, vehicula nisl litora tellus ligula porttitor metus. 
 
