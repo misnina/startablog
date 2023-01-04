@@ -12,5 +12,7 @@ My job is a pixel artist, I've went to some school for web development, I've par
 **My [main website](https://misnina.com)!**
 ![a small stamp of the character Nina](assets/images/birthday_pixel_2x.png) -misnina (Nina)!
 
-
+`
+<iframe id='kofiframe' src='https://ko-fi.com/misnina/?hidefeed=true&widget=true&embed=true&preview=true' style='border:none;width:100%;padding:4px;background:#f9f9f9;' height='712' title='misnina'></iframe>
+`
 
