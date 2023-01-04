@@ -8,11 +8,15 @@
   font-family: 'Roboto Condensed', sans-serif !important;
 }
 
+html {
+  background: var(--bg) !important;
+}
+
 iframe {
   border: none !important;
   width: 100% !important;
   padding: 4px;
-  background: var(--bg);
+  background: var(--bg) !important;
 }
 
 header {
