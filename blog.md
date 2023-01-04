@@ -2,7 +2,7 @@
 layout: default
 title: misnina's assorted worlds
 description: a thing
-permalink: /blog/
+permalink: /archive/
 ---
 
 {% for post in site.posts %}
